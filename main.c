@@ -1,4 +1,4 @@
 #include <stdio.h>
-void main() {
+int main() {
   printf("Gestión de Servicios es la mejor asignatura del mundo mundial :)";
 }
